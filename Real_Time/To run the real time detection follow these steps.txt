@@ -1,0 +1,11 @@
+To Run this:- 
+follow the below steps :-
+First of all open two CMD terminal and follow the path first
+
+1. cd "C:\Users\admin\OneDrive\Desktop\Facial Recognition\MyProject\Facial Recognition App\Real_Time"
+
+2. Then Activate the virtual env in both of the terminal :- venv\Scripts\activate
+
+3. Then in on terminal first run:- streamlit run app.py
+
+4. And in another terminal run :- python webcam.py
