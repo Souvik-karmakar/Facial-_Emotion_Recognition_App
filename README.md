@@ -67,7 +67,7 @@ Training performed on the **FER2013 dataset**.
 │     ├── app.py
 │
 ├── Models/
-│     ├── best_model_new.h5   (not included in repo – add via Google Drive)
+│     ├── best_model_new.h5   
 │     ├── best_resnet_model.h5
 │
 ├── requirements.txt
