@@ -125,11 +125,17 @@ pip install -r requirements.txt
 
 ### **Static Image Emotion Detection**
 
-(Add your screenshot here)
+Here is a sample output from the Streamlit image-based emotion detection:
+
+![Static App Screenshot](Test_Result/Facial Recognition Static App SS.png)
+
 
 ### **🎥 Real-Time Monitoring Demo**
 
-Upload your video into the repo OR link to Google Drive.
+Click below to watch the real-time monitoring video:
+
+👉 [Watch the Video](Test_Result/Real%20Time%20Facial%20Recognition%20Montoring%20-%20Made%20with%20Clipchamp.mp4)
+
 
 ---
 
